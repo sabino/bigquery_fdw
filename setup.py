@@ -23,6 +23,7 @@ setup(
         'google-cloud-bigquery==1.24.0',
         'google-auth==1.14.3',
         'google-auth-oauthlib==0.4.1',
+        'six==1.13.0'
     ],
     entry_points={
         'console_scripts': [
